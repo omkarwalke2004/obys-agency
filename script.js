@@ -84,4 +84,4 @@ function cursoranimation(){
 
 
 loader();
-cursoranimation();
+// cursoranimation();
